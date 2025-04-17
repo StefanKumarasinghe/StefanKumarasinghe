@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 - 💼 Currently working at **Telstra**
-- 🎓 Did my backelors at **Swinburne University of Technology**
+- 🎓 Did my bachelors at **Swinburne University of Technology**
 - 📚 Majoring in **Data Science**, **Software Development**, and **Software Engineering**
 - 📱 Created a dating app used by Swinburne students, however the app has been retired after 2 years of running
 
